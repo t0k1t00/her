@@ -1,4 +1,4 @@
-# **Healthy_Her**  
+# **HealthyHer**  
 
 A comprehensive women's health management application catering to diverse needs from menarche to menopause. This project integrates cutting-edge technology, AI-driven insights, and inclusivity for users across all demographics.  
 
